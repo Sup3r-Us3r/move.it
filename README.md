@@ -1,6 +1,6 @@
-<header align="center">
+<h1 align="center">
   <img title="Move.it" alt="Move.it" src=".github/logo-full.svg" />
-</header>
+</h1>
 
 <br />
 
@@ -54,6 +54,10 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## :globe_with_meridians: Deploy on Vercel
+
+- [Move.it](https://moveit-sup3r-us3r.vercel.app)
 
 ## :memo: License
 
