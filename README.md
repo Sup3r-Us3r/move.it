@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Move.it é um aplicativo que consiste em aplicar a técnica Pomodoro. É um método de gerenciamento de tempo, consiste na utilização de um cronômetro para dividir o trabalho em períodos de 25 minutos, separados por breves intervalos.
+Move.it is an application that applies the Pomodoro technique. It is a time management method, consisting of the use of a stopwatch to divide the work into periods of 25 minutes, separated by brief intervals.
 
 ## 🔖 Layout
 
